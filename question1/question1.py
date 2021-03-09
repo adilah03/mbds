@@ -76,7 +76,7 @@ def get_direction(m, n, s):
 for i in [65, 72, 90, 110]:
     get_direction(9, 9, i)
 
-print('\n')
+print('')
 
 # 1b)
 for i in [87127231192, 5994891682]:
